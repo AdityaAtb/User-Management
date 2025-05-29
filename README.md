@@ -18,8 +18,8 @@ A RESTful user management backend built with Django and MongoEngine (MongoDB).
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/user-management.git
-cd user-management
+git clone https://github.com/AdityaAtb/User-Management.git
+cd User-Management
 ```
 
 ### 2. Build and Run the Containers
