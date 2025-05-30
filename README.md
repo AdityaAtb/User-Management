@@ -88,7 +88,7 @@ All endpoints accept and return JSON.
       "phone": "..." 
     },
     {
-      ...
+      "...": "..."
     } 
   ]
   ```
